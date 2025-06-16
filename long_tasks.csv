@@ -1,0 +1,1 @@
+log_id,timestamp,user_id,department,task_type,status,duration_sec,host,long_task,is_failed,hour,day
